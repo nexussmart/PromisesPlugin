@@ -1,24 +1,19 @@
 {
-  "name": "es6-promise-plugin",
-  "version": "4.1.0",
+  "name": "promisesplugin",
+  "version": "1.0.0",
   "description": "ES6-Promises polyfill for Cordova/PhoneGap",
-  "main": "www/promise.js",
-  "dependencies": {},
-  "devDependencies": {
-    "es6-promise": "^4.1.0"
-  },
+  "main": "index.js",
   "scripts": {
-    "build": "./build"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vstirbu/PromisesPlugin.git"
+    "url": "git+https://github.com/nexussmart/PromisesPlugin.git"
   },
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vstirbu/PromisesPlugin/issues"
+    "url": "https://github.com/nexussmart/PromisesPlugin/issues"
   },
-  "homepage": "https://github.com/vstirbu/PromisesPlugin#readme",
-  "ecosystem": "cordova"
+  "homepage": "https://github.com/nexussmart/PromisesPlugin#readme"
 }
